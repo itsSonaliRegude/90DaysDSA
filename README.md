@@ -1,1 +1,3 @@
 # 90DaysDSA
+
+DAY1:
